@@ -1,0 +1,12 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.button{
+ background-color: lightblue;
+  width: 50px;
+  padding:20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+}
